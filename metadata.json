@@ -1,0 +1,8 @@
+{
+  "name": "SPR Realty",
+  "description": "SPR Realty is a premier real estate company in Chennai, dedicated to building trust and creating futures across Chennai.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
